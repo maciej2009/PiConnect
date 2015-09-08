@@ -1,0 +1,7 @@
+lista_Descr = ["A", "B", "C"]
+lista_ID = [10,11,12]
+
+print lista_ID[lista_Descr.index("C")]
+
+
+czujniki = {

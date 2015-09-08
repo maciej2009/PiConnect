@@ -1,0 +1,5 @@
+s = "192.168.0.200"
+d = "baza"
+p = "uid"
+u = "sa"
+print "server=%s, username=%s, password=%s,database=%s,  " % (s, u, p, d)  
